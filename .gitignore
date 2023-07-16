@@ -1,8 +1,2 @@
-`/server/node_modules/
-/.idea/.gitignore
-/.idea/jsLibraryMappings.xml
-/.idea/modules.xml
-/.idea/real-time.iml
-/.idea/vcs.xml
-/.idea/inspectionProfiles/Project_Default.xml
+.idea
 server/node_modules
